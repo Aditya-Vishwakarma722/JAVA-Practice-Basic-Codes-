@@ -21,6 +21,7 @@ class Class1{
 
 class Class2 extends Class1{
     //This is Method Overriding!
+    @Override
     void display2(){
         System.out.println("Method 1 inside Class2 with Values "+a+" & "+b);
     }
