@@ -25,9 +25,9 @@ searching/ - Problems using searching algorithms
 
 sorting/ - Problems using sorting algorithms
 
+---
 
-
-Purpose :-
+**Purpose :-**
 
 To practice and improve problem-solving skills systematically
 
@@ -37,9 +37,9 @@ To maintain clean GitHub history and track progress
 
 Focus is on understanding algorithms, optimizing code, and learning best practices
 
+---
 
-
-Notes :-
+**Notes :-**
 
 All code is written in Java 8+
 
