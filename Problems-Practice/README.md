@@ -26,6 +26,7 @@ searching/ - Problems using searching algorithms
 sorting/ - Problems using sorting algorithms
 
 
+
 Purpose :-
 
 To practice and improve problem-solving skills systematically
@@ -35,6 +36,8 @@ To organize solutions by topic for clarity and learning
 To maintain clean GitHub history and track progress
 
 Focus is on understanding algorithms, optimizing code, and learning best practices
+
+
 
 Notes :-
 
