@@ -1,54 +1,64 @@
-# JAVA-Practice-Basic-Codes-📚
+# Java Learning Repository
 
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
-![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat-square)
-![Repo Type](https://img.shields.io/badge/Type-Concept%20Practice-blue?style=flat-square)
-![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA%20%7C%20VS%20Code-purple?style=flat-square&logo=visualstudiocode)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
-
-This repository contains my **basic Java codes** where I practice and explore different **core concepts of Java**.  
-The goal of this repo is to **learn, experiment, and strengthen fundamentals** step by step. 🚀  
+This repository contains my **Java learning journey**, including both **core Java concepts** and **Data Structures & Algorithms (DSA) practice**.  
+All code is written in **Java**, organized for clarity and progressive learning.  
 
 ---
 
-## 📌 Topics Covered (so far)  
-- 🏗️ **Classes & Objects** – Understanding object-oriented basics  
-- ⚡ **Constructors** – Default & Parameterized initialization  
-- 🎭 **Abstraction** – Abstract classes and methods  
-- 🔄 **Inheritance** – Reusing code through parent-child relationships  
-- 🎭 **Polymorphism** – Method overloading & overriding  
-- 🔒 **Encapsulation** – Data hiding with getters/setters  
-- 🧩 **Interfaces** – Contracts for implementing multiple behaviors  
-- 💡 *(More concepts will be added as I learn!)*  
+## Folder Structure
+
+java-repo/
+├── concept-practice/ # Core Java concepts and syntax examples
+├── problem-practice/ # Solutions to DSA problems organized by topic
+
 
 ---
 
-## 🛠️ Tech Stack  
-- ☕ **Java** (Core Concepts)  
-- 🖥️ IDE: IntelliJ IDEA / VS Code / Eclipse  
-- 🔧 Tools: Git & GitHub for version control  
+## 1️⃣ java-basics/
+
+This folder contains code examples and exercises related to **core Java concepts**, including:
+
+- Object-Oriented Programming (OOP)
+- Collections Framework (List, Map, Set)
+- Multithreading & Concurrency
+- Exception Handling
+- Java syntax and language fundamentals
+
+**Purpose:** To build a strong foundation in Java for both backend development and game development projects.
 
 ---
 
-## 🎯 Purpose  
-✔️ Build a strong foundation in **OOP (Object-Oriented Programming)**  
-✔️ Learn through small, focused code examples  
-✔️ Keep a personal reference library of Java concepts  
+## 2️⃣ dsa-practice/
 
----
+This folder contains my **practice solutions for Data Structures and Algorithms**, organized by topic.  
+It is meant to improve problem-solving skills and algorithmic thinking, crucial for both backend and game development.
 
-## 🚀 Future Plans  
-- Add more **advanced OOP topics** (Generics, Inner Classes, etc.)  
-- Explore **Collections Framework** (List, Set, Map, etc.)  
-- Practice **Exception Handling** and **File Handling**  
-- Prepare mini **cheat-sheets** for quick revision  
+**Subfolder structure:**
 
----
+arrays/
+strings/
+linkedlist/
+stack/
+queue/
+recursion/
+searching/
+sorting/
 
-## 🤝 Contributions  
-This repo is for my **personal learning**.  
-If you’re also learning Java and want to suggest improvements, feel free to share ideas or feedback 💡.  
+**Purpose of this repository:**
 
----
+1. Document Java learning progress from basics to advanced concepts.
 
-⭐ *If you are a beginner in Java, you might find these concept codes helpful as a reference while learning!*  
+2. Maintain a record of algorithmic problem-solving and structured practice.
+
+3. Showcase organized, professional code for future employers or collaborators.
+
+4. Provide a reference point for projects in backend development or game development.
+
+
+**Notes:**
+
+1. All code is written in Java 8+
+
+2. This repository is educational and developmental, not a production library
+
+3. Future updates will include more advanced topics, optimization techniques, and project work
