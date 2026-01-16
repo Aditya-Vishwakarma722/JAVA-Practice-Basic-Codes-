@@ -8,13 +8,13 @@ All code is written in **Java**, organized for clarity and progressive learning.
 ## Folder Structure
 
 java-repo/
-1. concept-practice/ # Core Java concepts and syntax examples
-2. problem-practice/ # Solutions to DSA problems organized by topic
+1. concepts-practice/ # Core Java concepts and syntax examples
+2. problems-practice/ # Solutions to DSA problems organized by topic
 
 
 ---
 
-## 1️⃣ java-basics/
+## 1️⃣ concepts-practice/
 
 This folder contains code examples and exercises related to **core Java concepts**, including:
 
@@ -28,7 +28,7 @@ This folder contains code examples and exercises related to **core Java concepts
 
 ---
 
-## 2️⃣ dsa-practice/
+## 2️⃣ problems-practice/
 
 This folder contains my **practice solutions for Data Structures and Algorithms**, organized by topic.  
 It is meant to improve problem-solving skills and algorithmic thinking, crucial for both backend and game development.
