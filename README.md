@@ -8,8 +8,8 @@ All code is written in **Java**, organized for clarity and progressive learning.
 ## Folder Structure
 
 java-repo/
-├── concept-practice/ # Core Java concepts and syntax examples
-├── problem-practice/ # Solutions to DSA problems organized by topic
+1. concept-practice/ # Core Java concepts and syntax examples
+2. problem-practice/ # Solutions to DSA problems organized by topic
 
 
 ---
@@ -35,14 +35,14 @@ It is meant to improve problem-solving skills and algorithmic thinking, crucial 
 
 **Subfolder structure:**
 
-arrays/
-strings/
-linkedlist/
-stack/
-queue/
-recursion/
-searching/
-sorting/
+1. arrays/
+2. strings/
+3. linkedlist/
+4. stack/
+5. queue/
+6. recursion/
+7. searching/
+8. sorting/
 
 **Purpose of this repository:**
 
