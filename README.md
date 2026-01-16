@@ -44,6 +44,8 @@ It is meant to improve problem-solving skills and algorithmic thinking, crucial 
 7. searching/
 8. sorting/
 
+---
+
 **Purpose of this repository:**
 
 1. Document Java learning progress from basics to advanced concepts.
@@ -54,6 +56,7 @@ It is meant to improve problem-solving skills and algorithmic thinking, crucial 
 
 4. Provide a reference point for projects in backend development or game development.
 
+---
 
 **Notes:**
 
