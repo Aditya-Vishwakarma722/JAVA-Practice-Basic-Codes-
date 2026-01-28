@@ -62,6 +62,6 @@ It is meant to improve problem-solving skills and algorithmic thinking, crucial 
 
 1. All code is written in Java 8+
 
-2. This repository is educational and developmental, not a production library
+2. This repository is educational and developmental, not a production library.
 
 3. Future updates will include more advanced topics, optimization techniques, and project work
