@@ -1,11 +1,11 @@
-# Java Basics
+# Java Basics :-
 
 This folder contains my **Java fundamentals and core concepts** implemented in code.  
 It is designed to build a strong foundation in Java for both **backend development** and **game development projects**.
 
 ---
 
-## Topics Covered
+## Topics Covered:-
 
 - **Java Syntax & Language Fundamentals**  
   Basic structure, variables, data types, operators, loops, and conditionals.
@@ -27,7 +27,7 @@ It is designed to build a strong foundation in Java for both **backend developme
 
 ---
 
-## Notes
+## Notes:-
 
 - All code is written in **Java 8+**.  
 - Each file contains **comments explaining the purpose, approach, and key concepts**.  
@@ -35,7 +35,7 @@ It is designed to build a strong foundation in Java for both **backend developme
 
 ---
 
-## Purpose
+## Purpose:-
 
 - To **gain mastery of Java fundamentals** before diving into backend development.  
 - To create a **reference library** of Java examples for future projects.  
