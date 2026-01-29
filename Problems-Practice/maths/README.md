@@ -1,6 +1,16 @@
-# Maths Problems
+# Maths Problems (DSA Practice)
 
-This folder contains Java solutions for **basic beginner mathematics-related problems** from platforms like HackerRank, CodeChef, and LeetCode.
----
-This folder is for beginner maths problmes for practice and understanding of basics.
-More Codes will be added over time.
+This folder contains math-based competitive programming problems solved in Java.
+
+### Topics Covered
+- Modular Arithmetic
+- Number Theory Basics
+- GCD / LCM
+- Prime Checking
+- Simple Patterns & Observations
+
+### Platforms
+- CodeChef
+- HackerRank
+
+Each solution is written cleanly with proper logic and minimal brute force.
