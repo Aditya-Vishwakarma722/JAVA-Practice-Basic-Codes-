@@ -33,7 +33,7 @@ This folder contains code examples and exercises related to **core Java concepts
 This folder contains my **practice solutions for Data Structures and Algorithms**, organized by topic.  
 It is meant to improve problem-solving skills and algorithmic thinking, crucial for both backend and game development.
 
-**Subfolder structure:**
+**Subfolder structure:-**
 
 1. arrays/
 2. strings/
@@ -46,7 +46,7 @@ It is meant to improve problem-solving skills and algorithmic thinking, crucial 
 
 ---
 
-**Purpose of this repository:**
+**Purpose of this repository:-**
 
 1. Document Java learning progress from basics to advanced concepts.
 
@@ -58,7 +58,7 @@ It is meant to improve problem-solving skills and algorithmic thinking, crucial 
 
 ---
 
-**Notes:**
+**Notes:-**
 
 1. All code is written in Java 8+
 
