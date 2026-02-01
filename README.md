@@ -1,6 +1,6 @@
 # Java Learning Repository
 
-This repository contains my **Java learning journey**, including both **core Java concepts** and **Data Structures & Algorithms (DSA) practice**.  
+This repository contains my **Java learning journey**, including both **core Java concepts**, **Pattern Printing**, **Maths Problems** and **Data Structures & Algorithms (DSA) practice**.  
 All code is written in **Java**, organized for clarity and progressive learning.  
 
 ---
