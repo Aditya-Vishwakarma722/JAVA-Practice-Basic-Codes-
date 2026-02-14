@@ -1,3 +1,34 @@
+/*
+ * Problem: Mini-Max Sum (HackerRank)
+ *
+ * Given five positive integers, find the minimum and maximum values
+ * that can be calculated by summing exactly four of the five integers.
+ *
+ * Print the respective minimum and maximum values as a single line
+ * of two space-separated long integers.
+ *
+ * Example:
+ * Input:  [1, 2, 3, 4, 5]
+ * Output: 10 14
+ *
+ * Explanation:
+ * Minimum sum = 1 + 2 + 3 + 4 = 10
+ * Maximum sum = 2 + 3 + 4 + 5 = 14
+ *
+ * Approach:
+ * - Calculate the total sum of all five integers.
+ * - Find the minimum and maximum elements in the list.
+ * - Minimum sum = total sum - maximum element.
+ * - Maximum sum = total sum - minimum element.
+ *
+ * Important:
+ * - Use long instead of int to prevent integer overflow.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ */
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -31,3 +62,4 @@ public class MinMaxSum {
         mx.soultion(arr);
     }
 }
+
