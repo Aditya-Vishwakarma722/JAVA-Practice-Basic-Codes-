@@ -1,46 +1,52 @@
-# DSA Practice Folder
+# 🧠 Problems Practice
 
-This folder contains my **Data Structures & Algorithms (DSA) practice** in **Java**.  
-It documents my problem-solving progress across platforms like **HackerRank, CodeChef, and LeetCode**.  
-
----
-
-## Folder Structure
-
-Each subfolder represents a DSA topic:-
-
-arrays/ - Problems related to arrays
-
-strings/ - Problems related to strings
-
-linkedlist/ - Problems related to linked lists
-
-stack/ - Problems related to stack
-
-queue/ - Problems related to queue
-
-recursion/ - Problems solved using recursion
-
-searching/ - Problems using searching algorithms
-
-sorting/ - Problems using sorting algorithms
+> A collection of **Java, Data Structures & Algorithms practice problems** that I solve while learning and improving my problem-solving skills.
 
 ---
 
-**Purpose :-**
+### 📂 What's Inside?
 
-To practice and improve problem-solving skills systematically
+This folder is organized by the **data structure, algorithm, or concept** being practiced.
 
-To organize solutions by topic for clarity and learning
-
-To maintain clean GitHub history and track progress
-
-Focus is on understanding algorithms, optimizing code, and learning best practices
+- 🔢 **Arrays** — Array manipulation, traversal, searching, and related techniques
+- 🔤 **Strings** — String manipulation, comparison, traversal, and character-based problems
+- 🔗 **Linked List** — Nodes, references, traversal, and pointer manipulation
+- 📚 **Stack** — LIFO-based problems and stack-related techniques
+- 🚶 **Queue** — FIFO-based problems, BFS, and ordered processing
+- #️⃣ **Hash** — HashMap, HashSet, lookup, and hashing-based problems
+- 🌳 **Tree** — Binary Trees, BSTs, traversal, DFS, and BFS
+- 🔍 **Searching** — Linear Search, Binary Search, and search-based techniques
+- ↕️ **Sorting** — Sorting algorithms and sorting-based problem solving
+- 🔁 **Recursion** — Recursive thinking, base cases, and recursive problem solving
+- 🧮 **Mathematics** — Mathematical reasoning and numerical problems
 
 ---
 
-**Notes :-**
+### 🎯 Purpose
 
-All code is written in Java 8+
+This is not just a collection of solutions.
 
-This folder is educational, not a library — solutions may evolve with optimization and learning
+The purpose of this folder is to **practice problems, understand the underlying concepts, experiment with different approaches, learn from mistakes, and gradually improve my ability to solve problems independently in Java.**
+
+The solutions may change as my understanding improves.
+
+> **Think → Try → Fail → Understand → Implement → Improve**
+
+---
+
+### 🛠️ Language & Focus
+
+**Language:** Java
+
+**Focus:**
+`Data Structures` · `Algorithms` · `Problem Solving` · `Java Collections` · `Time & Space Complexity`
+
+---
+
+### 📈 Progress
+
+This folder will continue to grow as I learn new concepts and solve more problems.
+
+New data structures, algorithms, and problem-solving techniques will be added as I reach them in my learning journey.
+
+> **One problem at a time. One concept at a time.**
