@@ -1,68 +1,27 @@
-# Linked List
+# 🔗 Linked List
 
-This folder contains problems and practice programs based on Linked Lists.
+> This folder contains my practice problems based on **Linked Lists in Java**.
 
-## What is a Linked List?
+---
 
-A Linked List consists of nodes where each node stores:
+### 📌 Focus
 
-1. A value
-2. A reference to the next node
+The problems here are used to practice and understand:
 
-Example:
-
-1 → 2 → 3 → 4 → null
-
-A basic node:
-
-class ListNode {
-    int val;
-    ListNode next;
-}
-
-## Concepts Practiced
-
-- Creating nodes
-- Traversing a Linked List
-- Head
-- Current node
-- Next node
-- Inserting nodes
-- Removing nodes
-- Updating links
-- Handling null
+- Nodes and references
+- Head and current pointers
+- Linked List traversal
+- Insertion and deletion
+- Pointer manipulation
+- Handling `null`
 - Singly Linked Lists
 - Two-pointer techniques
-- Pointer manipulation
+- Working with `ListNode`
 
-## Problems
+---
 
-| Problem | Concept | Status |
-|---|---|---|
-| Merge Two Sorted Lists | Linked List / Two Pointer | ✅ |
-| Remove Duplicates from Sorted List | Linked List / Pointer Manipulation | ✅ |
+### 🎯 Purpose
 
-## Important Mental Model
+The goal of this folder is to understand how Linked Lists work internally and become comfortable manipulating nodes and references while solving problems.
 
-Unlike Arrays, Linked List problems are primarily about manipulating references.
-
-For example:
-
-current.next = current.next.next;
-
-This does not copy a value.
-
-It changes the connection between nodes.
-
-## Common Mistakes
-
-- Forgetting to check for null
-- Losing the head node
-- Returning current instead of head
-- Confusing current.next with current.next.val
-- Accidentally breaking the list
-- Moving the pointer at the wrong time
-
-## Goal
-
-Develop a strong understanding of nodes, references, traversal, and pointer manipulation.
+> **Understand the links → Manipulate the pointers → Solve the problem**
