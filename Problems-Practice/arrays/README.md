@@ -1,57 +1,27 @@
-# Arrays
+# 🔢 Arrays
 
-This folder contains problems and practice programs based on Arrays in Java.
+> This folder contains my practice problems based on **Arrays in Java**.
 
-## What is an Array?
+---
 
-An Array is a fixed-size data structure that stores multiple values of the same type.
+### 📌 Focus
 
-Example:
+The problems here are used to practice and understand:
 
-int[] nums = {10, 20, 30, 40, 50};
-
-Each element can be accessed using its index.
-
-Index:   0   1   2   3   4
-Value:  10  20  30  40  50
-
-## Concepts Practiced
-
-- Array declaration and initialization
-- Accessing elements using indexes
-- Traversing arrays
-- Updating elements
+- Array traversal
+- Indexing and manipulation
+- Searching within arrays
+- Two-pointer techniques
+- In-place operations
 - Finding minimum and maximum values
-- Searching
-- Removing elements logically
-- In-place modifications
-- Two-pointer technique
-- Prefix and suffix concepts
-- Array manipulation
+- Working with sorted arrays
+- Array-based problem solving
 - Time and space complexity
 
-## Problems
+---
 
-| Problem | Concept | Status |
-|---|---|---|
-| Remove Duplicates from Sorted Array | Two Pointer / In-place | ✅ |
-| Remove Element | Array Traversal / In-place | ✅ |
-| Merge Sorted Array | Two Pointer | ✅ |
-| Plus One | Array Manipulation | ✅ |
-| Best Time to Buy and Sell Stock | Array / Greedy | ✅ |
+### 🎯 Purpose
 
-## Important Questions to Ask
+The goal of this folder is to build a strong understanding of how arrays work in Java and learn how to approach different problems using them.
 
-When solving an Array problem:
-
-- Do I need to modify the original array?
-- Does the order of elements matter?
-- Is the array sorted?
-- Can I use two pointers?
-- Can I solve this in-place?
-- Do I need extra space?
-- What should I return?
-
-## Goal
-
-Build strong fundamentals in array traversal, manipulation, searching, and common techniques such as Two Pointers.
+> **Practice → Understand → Implement → Improve**
