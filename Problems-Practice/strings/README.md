@@ -1,64 +1,28 @@
-# Strings
+# 🔤 Strings
 
-This folder contains problems and practice programs involving Strings in Java.
+> This folder contains my practice problems based on **Strings in Java**.
 
-## What is a String?
+---
 
-A String is a sequence of characters.
+### 📌 Focus
 
-Example:
+The problems here are used to practice and understand:
 
-String s = "Hello";
-
-Characters can be accessed using:
-
-s.charAt(index);
-
-## Concepts Practiced
-
-- String creation
 - String traversal
-- charAt()
-- length()
-- substring()
-- equals()
-- contains()
-- indexOf()
-- Character comparison
-- String manipulation
+- Character manipulation
+- String comparison
+- Searching within strings
+- Substrings
 - Palindromes
-- Case conversion
 - Character validation
+- Case conversion
 - StringBuilder
+- String-based problem solving
 
-## Problems
+---
 
-| Problem | Concept | Status |
-|---|---|---|
-| Longest Common Prefix | String Comparison | ✅ |
-| Find Index of First Occurrence | String Searching | ✅ |
-| Length of Last Word | String Traversal | ✅ |
-| Add Binary | String / Binary | ✅ |
-| Valid Palindrome | String / Two Pointer | ✅ |
+### 🎯 Purpose
 
-## Important Java Rule
+The goal of this folder is to become comfortable working with Strings in Java and understand how different string problems can be approached efficiently.
 
-Use:
-
-s.equals(other);
-
-instead of:
-
-s == other;
-
-when comparing String contents.
-
-For repeated String modifications, consider using:
-
-StringBuilder
-
-instead of repeatedly using String concatenation with +.
-
-## Goal
-
-Become comfortable with String traversal, comparison, manipulation, and recognizing when a String problem can be solved using techniques such as Two Pointers or StringBuilder.
+> **Practice → Understand → Implement → Improve**
