@@ -1,51 +1,27 @@
-# Mathematics
+# 🧮 Mathematics
 
-This folder contains programming problems that primarily involve mathematical reasoning or numerical manipulation.
+> This folder contains my practice problems based on **Mathematical and numerical problem solving in Java**.
 
-## Concepts Practiced
+---
+
+### 📌 Focus
+
+The problems here are used to practice and understand:
 
 - Arithmetic operations
+- Number manipulation
 - Digit manipulation
-- Number properties
-- Square roots
-- Integer division
-- Remainders
-- Powers
 - Mathematical patterns
-- Overflow handling
+- Integer operations
+- Division and remainders
+- Powers and roots
+- Numerical reasoning
+- Mathematical problem solving
 
-## Problems
+---
 
-| Problem | Concept | Status |
-|---|---|---|
-| Sqrt(x) | Binary Search / Mathematics | ✅ |
+### 🎯 Purpose
 
-## Important Java Concepts
+The goal of this folder is to strengthen mathematical thinking and learn how mathematical concepts can be translated into efficient Java solutions.
 
-Be aware of the difference between:
-
-int
-long
-double
-
-Integer division:
-
-5 / 2
-
-produces:
-
-2
-
-while:
-
-5.0 / 2
-
-produces:
-
-2.5
-
-Also be careful about integer overflow when multiplying large values.
-
-## Goal
-
-Improve mathematical reasoning and become comfortable translating mathematical ideas into Java code.
+> **Understand the mathematics → Translate it into logic → Implement**
